@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I mainly develop for data visualization!</h3>
 
+<p align="center"> Check out [my website](https://omarkawach.github.io/) to learn more about me! </p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarkawach&label=Profile%20views&color=0e75b6&style=flat" alt="omarkawach" /> </p>
 
 <h3 align="left">Connect with me:</h3>
