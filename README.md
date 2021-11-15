@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-  <a href="https://omarkawach.github.io/" target="blank"></a>
+  <a href="https://omarkawach.github.io/" target="blank">Check out my website to learn more about me!</a>
 </p>
 
 
