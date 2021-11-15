@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">I mainly develop for data visualization!</h3>
+<h1 align="left">Hi 👋, I'm Omar</h1>
+<h3 align="left">I mainly develop for data visualization!</h3>
 
 
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://omarkawach.github.io/" target="blank">Check out my website to learn more about me!</a>
 </p>
 
