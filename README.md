@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I mainly develop for data visualization!</h3>
 
-<p align="center"> Check out [my website](https://omarkawach.github.io/) to learn more about me! </p>
+
+
+<p align="center"> 
+  <a href="https://omarkawach.github.io/" target="blank"></a>
+</p>
 
 
 
