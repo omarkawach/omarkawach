@@ -2,7 +2,7 @@
 <h3 align="left">I mainly develop for data visualization</h3>
 
 <p align="left"> 
-  <a href="https://www.interactivelearner-gis.com/" target="blank">Check out my current project called Interactive Learner!</a>
+  <a href="https://www.interactivelearner-gis.com/" target="blank">Check out my current project to interactively learn about Geographic Information Systems / Science!</a>
 </p>
 
 <p align="left"> 
