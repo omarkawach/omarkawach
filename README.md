@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Omar</h1>
 <h3 align="left">I mainly develop for data visualization</h3>
 
-
+<p align="left"> 
+  <a href="https://www.interactivelearner-gis.com/" target="blank">Check out my current project called Interactive Learner!</a>
+</p>
 
 <p align="left"> 
   <a href="https://omarkawach.github.io/" target="blank">Check out my website to learn more about me!</a>
