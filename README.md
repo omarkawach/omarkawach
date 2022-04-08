@@ -7,6 +7,10 @@
 </p>
 
 <p align="left"> 
+  <a href="https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020010-eng.htm" target="blank">Check out version 2 of the Canadian Statistical Geospatial Explorer!</a>
+</p>
+
+<p align="left"> 
   <a href="https://omarkawach.github.io/" target="blank">Check out my website to learn more about me!</a>
 </p>
 
