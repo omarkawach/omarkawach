@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Omar</h1>
-<h3 align="left">I am open to work</h3>
 <h3 align="left">I mainly develop for data visualization</h3>
 
 <p align="left"> 
