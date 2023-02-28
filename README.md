@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Omar</h1>
-<h3 align="left">I mainly develop for data visualization</h3>
+<h3 align="left">I currently work on web components at Esri and develop for data visualization on the side</h3>
 
 <p align="left"> 
   <a href="https://www.interactivelearner-gis.com/" target="blank">Check out my current project to interactively learn about Geographic Information Systems / Science!</a>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://omarkawach.github.io/" target="blank">Check out my website to learn more about me!</a>
+  <a href="https://omarkawach.github.io/" target="blank">Check out my website to learn more about me! (outdated)</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
