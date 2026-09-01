@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://omarkawach.github.io/" target="blank">Check out my website to learn more about me! (outdated)</a>
+  <a href="https://omarkawach.com" target="blank">Check out my website to learn more about me!</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
