@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Omar</h1>
-<h3 align="left">I currently work on the ArcGIS Maps SDK for JavaScript <a href="https://www.esri.com/en-us/home" target="blank">Esri</a>.</h3>
+<h3 align="left">I currently work on the ArcGIS Maps SDK for JavaScript at <a href="https://www.esri.com/en-us/home" target="blank">Esri</a>.</h3>
 
 <p align="left"> 
   <a href="https://www.interactivelearner-gis.com/" target="blank">Check out my current project to interactively learn about Geographic Information Systems / Science!</a>
